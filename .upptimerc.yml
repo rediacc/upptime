@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Rediacc Status
   introTitle: "**Rediacc Status Page**"
-  introMessage: This status page monitors the uptime and performance of Rediacc services. Powered by **[Upptime](https://upptime.js.org)**.
+  introMessage: This status page monitors the uptime and performance of Rediacc services. Powered by **[Upptime](https://upptime.js.org)** and GitHub Actions.
   navbar:
     - title: Status
       href: /
