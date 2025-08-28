@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 503,
-    "timeWeek": 503,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "time": 477,
+    "timeDay": 477,
+    "timeWeek": 477,
+    "timeMonth": 477,
+    "timeYear": 477,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 481,
-    "timeDay": 481,
-    "timeWeek": 481,
-    "timeMonth": 481,
-    "timeYear": 481,
+    "time": 470,
+    "timeDay": 470,
+    "timeWeek": 470,
+    "timeMonth": 470,
+    "timeYear": 470,
     "dailyMinutesDown": {}
   },
   {
@@ -64,31 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 480,
-    "timeWeek": 480,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "time": 468,
+    "timeDay": 468,
+    "timeWeek": 468,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Email Notification",
-    "url": "https://invalid-test-url-for-email.rediacc.com",
-    "icon": "https://www.rediacc.com/favicon.ico",
-    "slug": "test-email-notification",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 62,
-    "timeDay": 62,
-    "timeWeek": 62,
-    "timeMonth": 62,
-    "timeYear": 62,
-    "dailyMinutesDown": {
-      "2025-08-28": 0
-    }
   }
 ]
