@@ -55,7 +55,7 @@ status-website:
     - title: Rediacc
       href: https://www.rediacc.com
     - title: Documentation
-      href: https://www.rediacc.com/docs
+      href: https://www.rediacc.com/docs/intro
 
 # Configuration
 assignees:
