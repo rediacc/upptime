@@ -172,5 +172,10 @@ customBodyHtml: |
     }
   </style>
 
+# Notifications configuration - Microsoft Teams integration
+notifications:
+  - type: teams
+    strategy: fallback  # Use fallback to ensure notification delivery
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
