@@ -4,18 +4,19 @@
     "url": "https://www.rediacc.com",
     "icon": "https://www.rediacc.com/favicon.ico",
     "slug": "rediacc-main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "99.46%",
+    "uptimeDay": "99.45%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.62%",
-    "time": 528,
-    "timeDay": 539,
-    "timeWeek": 528,
-    "timeMonth": 528,
-    "timeYear": 528,
+    "time": 539,
+    "timeDay": 550,
+    "timeWeek": 539,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
+      "2025-08-29": 0,
       "2025-08-28": 8
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.61%",
     "uptimeYear": "99.61%",
-    "time": 532,
-    "timeDay": 540,
-    "timeWeek": 532,
-    "timeMonth": 532,
-    "timeYear": 532,
+    "time": 528,
+    "timeDay": 535,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
       "2025-08-28": 8
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 500,
-    "timeDay": 513,
-    "timeWeek": 500,
-    "timeMonth": 500,
-    "timeYear": 500,
+    "time": 494,
+    "timeDay": 506,
+    "timeWeek": 494,
+    "timeMonth": 494,
+    "timeYear": 494,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 486,
-    "timeDay": 490,
-    "timeWeek": 486,
-    "timeMonth": 486,
-    "timeYear": 486,
+    "time": 476,
+    "timeDay": 478,
+    "timeWeek": 476,
+    "timeMonth": 476,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   }
 ]
