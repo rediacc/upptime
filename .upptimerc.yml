@@ -174,8 +174,8 @@ customBodyHtml: |
 
 # Notifications configuration - Microsoft Teams and Email integration
 notifications:
-  - type: teams
   - type: email
+  - type: teams
   # No strategy specified - notifications will be sent to all channels simultaneously
 
 # Upptime also supports notifications, assigning issues, and more
