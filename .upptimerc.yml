@@ -176,7 +176,7 @@ customBodyHtml: |
 notifications:
   - type: teams
   - type: email
-    strategy: roundrobin  # Rotate between Teams and Email for redundancy
+  # No strategy specified - notifications will be sent to all channels simultaneously
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
