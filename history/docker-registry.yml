@@ -1,7 +1,7 @@
 url: https://registry.rediacc.com/v2/
-status: up
-code: 200
-responseTime: 444
-lastUpdated: 2025-10-01T23:13:14.731Z
+status: down
+code: 503
+responseTime: 398
+lastUpdated: 2025-10-02T13:54:59.542Z
 startTime: 2025-08-27T20:04:37.547Z
 generator: Upptime <https://github.com/upptime/upptime>
