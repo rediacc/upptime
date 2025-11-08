@@ -1,7 +1,7 @@
 url: https://lic.rediacc.com
-status: down
+status: degraded
 code: 530
-responseTime: 79
-lastUpdated: 2025-11-07T23:13:51.867Z
+responseTime: 4699
+lastUpdated: 2025-11-08T22:53:32.765Z
 startTime: 2025-08-27T20:04:38.365Z
 generator: Upptime <https://github.com/upptime/upptime>
